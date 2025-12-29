@@ -1,1 +1,1 @@
-You have been hired to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. You want to figure out what key factors play into the success of a Shopify app.# Power-BI-Project
+# Power-BI-Project
